@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="480px" height="2364px" viewBox="0 0 480 2364" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Mobile Portrait</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#D8D8D8" offset="0%"></stop>
+            <stop stop-color="#B3B3B3" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="145" height="36" rx="6"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.195772059 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="145" height="36" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <text id="text-6" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#4A4A4A">
+            <tspan x="26.443" y="22">Register Here</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-8" x="0" y="0" width="145" height="36" rx="6"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.195772059 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="145" height="36" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <text id="text-12" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#4A4A4A">
+            <tspan x="31.07" y="22">View Guests</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-14" x="0" y="0" width="367.796158" height="206.05875"></rect>
+        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="367.796158" height="206.05875" fill="white">
+            <use xlink:href="#path-14"></use>
+        </mask>
+        <rect id="path-16" x="0" y="0" width="145" height="36" rx="6"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.195772059 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <mask id="mask-19" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="145" height="36" fill="white">
+            <use xlink:href="#path-16"></use>
+        </mask>
+        <text id="text-20" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#4A4A4A">
+            <tspan x="26.443" y="22">Register Here</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-22" x="0.39150956" y="0.756008002" width="138.561593" height="225.288055"></rect>
+        <mask id="mask-23" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="138.561593" height="225.288055" fill="white">
+            <use xlink:href="#path-22"></use>
+        </mask>
+        <rect id="path-24" x="138.953102" y="0.756008002" width="146.022602" height="225.288055"></rect>
+        <mask id="mask-25" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="146.022602" height="225.288055" fill="white">
+            <use xlink:href="#path-24"></use>
+        </mask>
+        <rect id="path-26" x="284.975704" y="0.756008002" width="133.232301" height="225.288055"></rect>
+        <mask id="mask-27" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="133.232301" height="225.288055" fill="white">
+            <use xlink:href="#path-26"></use>
+        </mask>
+        <rect id="path-28" x="20.8432153" y="38.9713602" width="83.1265393" height="51.2583956" rx="2"></rect>
+        <mask id="mask-29" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="83.1265393" height="51.2583956" fill="white">
+            <use xlink:href="#path-28"></use>
+        </mask>
+        <rect id="path-30" x="159.301717" y="38.9713602" width="83.1265393" height="51.2583956" rx="2"></rect>
+        <mask id="mask-31" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="83.1265393" height="51.2583956" fill="white">
+            <use xlink:href="#path-30"></use>
+        </mask>
+        <rect id="path-32" x="299.24902" y="38.9713602" width="70.1769075" height="51.2583956" rx="2"></rect>
+        <mask id="mask-33" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="70.1769075" height="51.2583956" fill="white">
+            <use xlink:href="#path-32"></use>
+        </mask>
+        <rect id="path-34" x="0" y="0" width="300" height="36" rx="3"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-35">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="300" height="36" fill="white">
+            <use xlink:href="#path-34"></use>
+        </mask>
+        <rect id="path-37" x="0" y="0" width="145" height="36" rx="6"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.195772059 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-39">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="145" height="36" fill="white">
+            <use xlink:href="#path-37"></use>
+        </mask>
+        <text id="text-41" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#4A4A4A">
+            <tspan x="62.066" y="22">OK</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-43">
+            <stop stop-color="#F3F3F3" offset="0%"></stop>
+            <stop stop-color="#D4D4D4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-44" x="0" y="0" width="300" height="36" rx="3"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-45">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.195772059 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <mask id="mask-47" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="300" height="36" fill="white">
+            <use xlink:href="#path-44"></use>
+        </mask>
+        <polygon id="path-48" points="4.5 16 9 11 0 11"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-49">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-50" points="4.5 0 9 5 0 5"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-51">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.999936521   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Portrait">
+            <g id="Navigation" transform="translate(0.000000, 0.111959)">
+                <rect id="navbar" fill="#D8D8D8" x="0" y="0" width="480.386818" height="65.6107464"></rect>
+                <ellipse id="Logo" fill="#E7E7E7" cx="425.797113" cy="32.5899555" rx="35.7312263" ry="23.9823755"></ellipse>
+                <text font-family="AppleSymbols, Apple Symbols" font-size="36" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="14.888011" y="32.9933908">≡</tspan>
+                </text>
+            </g>
+            <g id="Banner" transform="translate(0.000000, 65.722705)">
+                <rect id="Jumbotron" fill-opacity="0.363734149" fill="#D8D8D8" x="0" y="-1.42108547e-14" width="480.386818" height="241.939627"></rect>
+                <text id="Title" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="108.68248" y="53.9691572">Title</tspan>
+                </text>
+                <text id="Subtitles" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="108.68248" y="99.9353769">Subtitles</tspan>
+                </text>
+                <g id="Buttons-/-Primary" transform="translate(108.000000, 121.277295)">
+                    <g id="Button-Background">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                        <use stroke="#979797" mask="url(#mask-5)" stroke-width="2" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="OK" fill-opacity="1" fill="#4A4A4A">
+                        <use filter="url(#filter-7)" xlink:href="#text-6"></use>
+                        <use xlink:href="#text-6"></use>
+                    </g>
+                </g>
+                <g id="Buttons-/-Primary" transform="translate(253.000000, 121.277295)">
+                    <g id="Button-Background">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-8"></use>
+                        <use stroke="#979797" mask="url(#mask-11)" stroke-width="2" xlink:href="#path-8"></use>
+                    </g>
+                    <g id="OK" fill-opacity="1" fill="#4A4A4A">
+                        <use filter="url(#filter-13)" xlink:href="#text-12"></use>
+                        <use xlink:href="#text-12"></use>
+                    </g>
+                </g>
+            </g>
+            <g id="Body" transform="translate(30.985712, 340.193703)">
+                <g id="Carousel" transform="translate(25.309619, 509.782455)" stroke="#979797">
+                    <use id="carousel" mask="url(#mask-15)" stroke-width="2" xlink:href="#path-14"></use>
+                    <polygon id="Triangle" fill="#D8D8D8" points="16.4194713 90.2147763 16.4194713 126.095653 0 108.155215"></polygon>
+                    <polygon id="Triangle" fill="#D8D8D8" transform="translate(360.055550, 108.155215) rotate(-180.000000) translate(-360.055550, -108.155215) " points="368.265285 90.2147763 368.265285 126.095653 351.845814 108.155215"></polygon>
+                </g>
+                <text id="Lorem-ipsum-dolor-si" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="47.6416351" y="14">Lorem ipsum dolor sit amet, consectetur </tspan>
+                    <tspan x="47.6416351" y="31">adipiscing elit. Ut risus mauris, consequat at </tspan>
+                    <tspan x="47.6416351" y="48">porttitor in, pulvinar nec nibh. Aenean fringilla </tspan>
+                    <tspan x="47.6416351" y="65">leo a tempor commodo. Nam luctus mauris sit </tspan>
+                    <tspan x="47.6416351" y="82">amet augue cursus cursus.</tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="47.6416351" y="167.88691">Lorem ipsum dolor sit amet, consectetur </tspan>
+                    <tspan x="47.6416351" y="184.88691">adipiscing elit. Ut risus mauris, consequat at </tspan>
+                    <tspan x="47.6416351" y="201.88691">porttitor in, pulvinar nec nibh. Aenean fringilla </tspan>
+                    <tspan x="47.6416351" y="218.88691">leo a tempor commodo. Nam luctus mauris sit </tspan>
+                    <tspan x="47.6416351" y="235.88691">amet augue cursus cursus.</tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="47.6416351" y="321.773819">Lorem ipsum dolor sit amet, consectetur </tspan>
+                    <tspan x="47.6416351" y="338.773819">adipiscing elit. Ut risus mauris, consequat at </tspan>
+                    <tspan x="47.6416351" y="355.773819">porttitor in, pulvinar nec nibh. Aenean fringilla </tspan>
+                    <tspan x="47.6416351" y="372.773819">leo a tempor commodo. Nam luctus mauris sit </tspan>
+                    <tspan x="47.6416351" y="389.773819">amet augue cursus cursus.</tspan>
+                </text>
+                <g id="Timetable" transform="translate(25.309619, 1137.821851)">
+                    <rect id="Container" stroke="#979797" x="0" y="49.5965938" width="367.796158" height="281.921176" rx="13"></rect>
+                    <path d="M1.64194713,93.16623 L368.031008,93.16623" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M0.703691628,138.273618 L367.092752,138.273618" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M1.17281938,192.607518 L367.56188,192.607518" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M0.234563876,237.714906 L366.623624,237.714906" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M1.17281938,284.87263 L367.56188,284.87263" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <text id="Title" font-family="LucidaGrande, Lucida Grande" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="147.391308" y="17">Title </tspan>
+                    </text>
+                    <g id="Buttons-/-Primary" transform="translate(111.704670, 362.984446)">
+                        <g id="Button-Background">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-16"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-16"></use>
+                            <use stroke="#979797" mask="url(#mask-19)" stroke-width="2" xlink:href="#path-16"></use>
+                        </g>
+                        <g id="OK" fill-opacity="1" fill="#4A4A4A">
+                            <use filter="url(#filter-21)" xlink:href="#text-20"></use>
+                            <use xlink:href="#text-20"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="Cards" transform="translate(0.000000, 807.406643)">
+                    <use id="Card-1" stroke="#979797" mask="url(#mask-23)" stroke-width="2" xlink:href="#path-22"></use>
+                    <use id="Card-2" stroke="#979797" mask="url(#mask-25)" stroke-width="2" xlink:href="#path-24"></use>
+                    <use id="Card-3" stroke="#979797" mask="url(#mask-27)" stroke-width="2" xlink:href="#path-26"></use>
+                    <text id="Lorem-ipsum-dolor-si" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="20.8432153" y="125.916284">Lorem ipsum </tspan>
+                        <tspan x="20.8432153" y="140.916284">dolor sit </tspan>
+                        <tspan x="20.8432153" y="155.916284">amet,consectetu</tspan>
+                        <tspan x="20.8432153" y="170.916284">r adipiscing elit. </tspan>
+                    </text>
+                    <text id="Speaker" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="20.8432153" y="18.9948595">Speaker </tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="159.301717" y="125.916284">Lorem ipsum </tspan>
+                        <tspan x="159.301717" y="140.916284">dolor sit </tspan>
+                        <tspan x="159.301717" y="155.916284">amet,consectetu</tspan>
+                        <tspan x="159.301717" y="170.916284">r adipiscing elit. </tspan>
+                    </text>
+                    <text id="Speaker" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="144.413706" y="18.9948595">Speaker </tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="299.24902" y="125.916284">Lorem ipsum </tspan>
+                        <tspan x="299.24902" y="140.916284">dolor sit </tspan>
+                        <tspan x="299.24902" y="155.916284">amet,consectetu</tspan>
+                        <tspan x="299.24902" y="170.916284">r adipiscing elit. </tspan>
+                    </text>
+                    <text id="Speaker" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="294.782617" y="18.9948595">Speaker </tspan>
+                    </text>
+                    <use id="Image-1" stroke="#979797" mask="url(#mask-29)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-28"></use>
+                    <use id="Image-2" stroke="#979797" mask="url(#mask-31)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-30"></use>
+                    <use id="Image-3" stroke="#979797" mask="url(#mask-33)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-32"></use>
+                </g>
+            </g>
+            <g id="Footer" transform="translate(19.000000, 1950.000000)">
+                <text id="Lorem-ipsum-dolor-si" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="17.8656131" y="45.8987939">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </tspan>
+                    <tspan x="17.8656131" y="62.8987939">Cras neque enim, sollicitudin quis nisl eu, egestas pharetra </tspan>
+                    <tspan x="17.8656131" y="79.8987939">justo. Suspendisse nec fringilla libero,</tspan>
+                </text>
+                <text id="About" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="17.8656131" y="22.9933908">About</tspan>
+                </text>
+                <text id="Link-A" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="266.814209">Link A</tspan>
+                </text>
+                <text id="Copy-Right-&amp;-Social" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="17.8656131" y="360.069287">Copy Right &amp; Social Media icons</tspan>
+                </text>
+                <text id="Link-B" font-family="LucidaGrande, Lucida Grande" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="77.417657" y="266.814209">Link B</tspan>
+                </text>
+                <g id="Input-/-Text" transform="translate(7.444005, 122.909675)">
+                    <g id="Input-Background">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-34"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-35)" xlink:href="#path-34"></use>
+                        <use stroke="#979797" mask="url(#mask-36)" stroke-width="2" xlink:href="#path-34"></use>
+                    </g>
+                    <text id="Input-value" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="11" y="22">Input value</tspan>
+                    </text>
+                </g>
+                <path d="M7.67432869,204.520998 L427.079839,204.520998" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M7.67432869,1.53775187 L427.079839,1.53775187" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <g id="Buttons-/-Primary" transform="translate(222.589478, 122.909675)">
+                    <g id="Button-Background">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-37"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-39)" xlink:href="#path-37"></use>
+                        <use stroke="#979797" mask="url(#mask-40)" stroke-width="2" xlink:href="#path-37"></use>
+                    </g>
+                    <g id="OK" fill-opacity="1" fill="#4A4A4A">
+                        <use filter="url(#filter-42)" xlink:href="#text-41"></use>
+                        <use xlink:href="#text-41"></use>
+                    </g>
+                </g>
+                <g id="Select-/-Select" transform="translate(160.790518, 252.814209)">
+                    <g id="Select-Background">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-45)" xlink:href="#path-44"></use>
+                        <use fill="url(#linearGradient-43)" fill-rule="evenodd" xlink:href="#path-44"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-44"></use>
+                        <use stroke="#979797" mask="url(#mask-47)" stroke-width="2" xlink:href="#path-44"></use>
+                    </g>
+                    <g id="Triangles" stroke-width="1" fill-rule="evenodd" transform="translate(277.000000, 10.000000)">
+                        <g id="Triangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-49)" xlink:href="#path-48"></use>
+                            <use fill="#4A4A4A" fill-rule="evenodd" xlink:href="#path-48"></use>
+                        </g>
+                        <g id="Triangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-51)" xlink:href="#path-50"></use>
+                            <use fill="#4A4A4A" fill-rule="evenodd" xlink:href="#path-50"></use>
+                        </g>
+                    </g>
+                    <text id="Select-Option" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="11" y="22">Select Option</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

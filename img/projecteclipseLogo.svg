@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="420px" height="250px" viewBox="0 0 420 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>projecteclipseLogo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#8ECFF1" x="0" y="0" width="420" height="250"></rect>
+        <g id="Triangles" transform="translate(144.000000, 45.000000)">
+            <polygon id="Triangle" fill="#D0011B" transform="translate(42.060079, 66.000000) rotate(-270.000000) translate(-42.060079, -66.000000) " points="83.9549407 108 0.165217391 108 42.0600791 24"></polygon>
+            <polygon id="Triangle" fill="#BD0FE1" transform="translate(89.939921, 42.000000) rotate(-270.000000) translate(-89.939921, -42.000000) " points="131.834783 84 48.0450593 84 89.9399209 2.84217094e-14"></polygon>
+            <polygon id="Triangle" fill="#B8E986" transform="translate(89.939921, 118.000000) rotate(-270.000000) translate(-89.939921, -118.000000) " points="131.834783 160 48.0450593 160 89.9399209 76"></polygon>
+            <polygon id="Triangle" fill="#F8E81C" transform="translate(42.060079, 94.000000) rotate(-270.000000) translate(-42.060079, -94.000000) " points="83.9549407 136 0.165217391 136 42.0600791 52"></polygon>
+        </g>
+    </g>
+</svg>

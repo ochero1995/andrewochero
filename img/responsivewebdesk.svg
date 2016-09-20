@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1417px" height="604px" viewBox="0 0 1417 604" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>responsivewebdesk</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="28.6712095" y="20.5574293" width="504.613288" height="292.737793"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="504.613288" height="292.737793" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-opacity="0.562188632" fill="#000000" opacity="0.91248834" x="0" y="0" width="1417" height="699.844691"></rect>
+        <g id="Monitor" transform="translate(49.000000, 182.787719)">
+            <polygon id="Stand" fill="#2C3E50" points="280.5 300.960765 368.902896 380.723591 192.097104 380.723591"></polygon>
+            <rect fill="#95A5A6" x="0" y="0" width="561" height="333.852652"></rect>
+            <use id="Screen" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#2980B9" xlink:href="#path-1"></use>
+            <rect id="Footer" fill="#F6CB23" x="52.5638842" y="284.514822" width="455.872232" height="22.2020237"></rect>
+            <rect id="Main" fill="#F41111" x="158.647359" y="63.3168823" width="349.788756" height="217.908751"></rect>
+            <rect id="Aside-2" fill="#42F60D" x="52.5638842" y="172.682406" width="94.6149915" height="103.609444"></rect>
+            <rect id="Aside-1" fill="#2A8B54" x="52.5638842" y="63.3168823" width="94.6149915" height="103.609444"></rect>
+            <rect id="Header" fill="#8E44AD" x="53.5195911" y="30.4249954" width="455.872232" height="22.2020237"></rect>
+        </g>
+        <g id="Smartphone" transform="translate(913.000000, 376.684083)">
+            <rect id="Frame" fill="#000000" x="0" y="0" width="119" height="191.876611"></rect>
+            <rect id="Screen" fill="#D8D8D8" x="13" y="13.1283997" width="94" height="165.619811"></rect>
+            <rect id="Footer" fill="#003BFF" x="13" y="159.56055" width="94" height="19.1876611"></rect>
+            <rect id="Content" fill="#14FF00" x="13" y="114.11609" width="94" height="39.3851991"></rect>
+            <rect id="Content" fill="#00FFB3" x="13" y="71.7012598" width="94" height="39.3851991"></rect>
+            <rect id="Header-2" fill="#FF002C" x="13" y="43.4247067" width="94" height="19.1876611"></rect>
+            <rect id="Header" fill="#E4FC1C" x="13" y="13.1283997" width="94" height="19.1876611"></rect>
+        </g>
+        <g id="Tablet" transform="translate(1179.000000, 334.269254)">
+            <rect id="Frame" fill="#000000" x="0" y="0" width="171" height="234.291441" rx="8"></rect>
+            <rect id="Screen" fill="#D8D8D8" x="14" y="15.1481535" width="142" height="205.00501"></rect>
+            <rect id="Footer" fill="#167DDE" x="14" y="196.925995" width="142" height="23.2271687"></rect>
+            <rect id="Content" fill="#E92626" x="14" y="50.4938449" width="142" height="58.5728601"></rect>
+            <rect id="Content-2" fill="#00DA37" x="14" y="117.14572" width="142" height="58.5728601"></rect>
+            <rect id="Header" fill="#DCD71A" x="14" y="15.1481535" width="142" height="23.2271687"></rect>
+        </g>
+        <g id="Light" transform="translate(308.000000, 175.718580)" fill="#FFFFFF" opacity="0.426364272">
+            <polygon id="Beam" points="174.5 0 349 394.861867 0 394.861867"></polygon>
+        </g>
+        <g id="lamp" transform="translate(119.000000, 80.641998)">
+            <ellipse id="Lamp-Stand" fill="#1ABC9C" cx="330" cy="476.305111" rx="87" ry="45.9493989"></ellipse>
+            <path d="M303.5,432.880405 L14,247.358002" id="Lamp-Branch-1" stroke="#1ABC9C" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M14.5,233.549457 L276,24" id="Lamp-Branch-2" stroke="#1ABC9C" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M290,15.7325127 L350.134449,15.7325127" id="Lamp-Branch-3" stroke="#1ABC9C" stroke-width="10" stroke-linecap="square"></path>
+            <ellipse id="Joint-3" fill="#000000" cx="366.341183" cy="14.2097834" rx="11.3411827" ry="14.2097834"></ellipse>
+            <ellipse id="Joint-2" fill="#000000" cx="290" cy="14.1382766" rx="14" ry="14.1382766"></ellipse>
+            <ellipse id="Joint-1" fill="#000000" cx="14" cy="243.138277" rx="14" ry="14.1382766"></ellipse>
+            <rect id="Lamp-body" fill="#1ABC9C" x="339" y="27" width="55.6009899" height="69.6645175"></rect>
+            <polygon id="Lamp-head" fill="#1ABC9C" points="402.974073 111.647855 330 111.647855 366.487036 33"></polygon>
+        </g>
+        <g id="Desk" transform="translate(10.000000, 577.649586)" stroke-width="20" stroke-linecap="square">
+            <path d="M0,21.2074149 L1396,21.2074149" id="Line" stroke="#000000"></path>
+            <path d="M0,1.0098769 L1397,1.0098769" id="Line" stroke="#8D5D5D"></path>
+        </g>
+        <g id="Mug" transform="translate(610.000000, 383.753222)">
+            <rect id="Rectangle-2" fill="#D8D8D8" x="36" y="55.5432294" width="114" height="129.264243" rx="14"></rect>
+            <ellipse id="Oval" stroke="#D8D8D8" stroke-width="10" cx="36.5" cy="120.680289" rx="36.5" ry="36.8605068"></ellipse>
+            <path d="M74.3911444,0 C74.3911444,0 53,0.794098468 53,7.0856157 C53,14.715364 72.1943826,27.5828301 74.3911445,36.6920324 C78.0345901,51.8001251 61.4678838,58.9438051 61.4678838,58.9438051" id="Line" stroke="#D8D8D8" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M103.391144,1.0098769 C103.391144,1.0098769 82,1.80397537 82,8.0954926 C82,15.7252409 101.194383,28.592707 103.391145,37.7019093 C107.03459,52.810002 90.4678838,59.953682 90.4678838,59.953682" id="Line" stroke="#D8D8D8" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M132.391144,1.0098769 C132.391144,1.0098769 111,1.80397537 111,8.0954926 C111,15.7252409 130.194383,28.592707 132.391145,37.7019093 C136.03459,52.810002 119.467884,59.953682 119.467884,59.953682" id="Line" stroke="#D8D8D8" stroke-width="3" stroke-linecap="square"></path>
+        </g>
+        <g id="Text" transform="translate(636.000000, 21.000000)" font-family="LucidaGrande, Lucida Grande" fill="#FFFFFF" font-weight="normal">
+            <text id="Think-Out-of-the-Box" font-size="50">
+                <tspan x="116.53986" y="48.6419984">Think Out of the Box!</tspan>
+            </text>
+            <text id="Freelance-web-develo" font-size="36">
+                <tspan x="181.563477" y="111">Freelance web developer </tspan>
+                <tspan x="230.624023" y="154">with experience in:</tspan>
+            </text>
+            <text id="HTML5,-CSS3,-jQuery," font-size="20">
+                <tspan x="24.3157387" y="201">HTML5, CSS3, jQuery, JavaScript, PHP7, MySQL, Laravel, Bootsrap, Sketch</tspan>
+            </text>
+        </g>
+        <g id="Logo" transform="translate(657.000000, 457.000000)">
+            <ellipse id="Oval" fill="#000000" cx="43.9076599" cy="44.8243878" rx="43.9076599" ry="44.8243878"></ellipse>
+            <text id="A-|-O" font-family="LucidaGrande, Lucida Grande" font-size="18" font-weight="normal" fill="#FFFFFF">
+                <tspan x="21.5718806" y="50">A | O</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
