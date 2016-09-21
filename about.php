@@ -21,9 +21,7 @@
 
 				<br>
 				<br>
-			</article>	
-	
-			<div class="row">
+			
 			
 				<h3>Front-end Development</h3>
 
@@ -61,10 +59,6 @@
 					    <div class="label">70%</div>
 					  </div>
 					</div>
-			</div>	
-
-				
-					
 					<br>
 					<br>
 
@@ -106,6 +100,7 @@
 						<img src="img/aiLogo.svg">
 					</div>	
 				</div>
+				
 
 				<br>
 
